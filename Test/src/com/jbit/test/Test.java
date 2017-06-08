@@ -9,6 +9,9 @@ public class Test {
 		System.out.println("Hello Word!!");
 		//yang
 		System.out.println("Hello yang");
+		
+		//gk
+		System.out.println("sfsf");
 	}
 
 }
