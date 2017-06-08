@@ -7,6 +7,8 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello Word!!");
+		//xingxing
+		System.out.println("星星第一次提交的");
 	}
 
 }
